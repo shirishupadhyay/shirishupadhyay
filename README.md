@@ -13,8 +13,7 @@ Applied Machine Learning Engineer focused on building end-to-end intelligent sys
 ✅ FastAPI Backend Development  
 ✅ Scalable ML Automation
 
-🎓 B.Tech AI & ML (CGPA 9.0) — Garden City University
-
+🎓 B.Tech AI & ML
 ---
 
 ## 🚀 Current Focus
